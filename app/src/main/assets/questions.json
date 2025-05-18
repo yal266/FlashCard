@@ -1,0 +1,102 @@
+[
+  {
+    "texto": "¿Qué es un LinearLayout?",
+    "opciones": ["Un contenedor que organiza vistas en una sola fila o columna.", "Un contenedor que organiza vistas en una cuadrícula.", "Un contenedor que organiza vistas en función de restricciones.", "Un contenedor que organiza vistas en una pila."],
+    "opcionCorrecta": 0
+  },
+  {
+    "texto": "¿Qué atributo se utiliza para establecer la orientación de un LinearLayout?",
+    "opciones": ["android:layout_width", "android:orientation", "android:gravity", "android:layout_margin"],
+    "opcionCorrecta": 1
+  },
+  {
+    "texto": "¿Qué es un RelativeLayout?",
+    "opciones": ["Un contenedor que organiza vistas en función de relaciones entre ellas.", "Un layout para botones únicamente.", "Un layout específico para imágenes.", "Una vista sin hijos."],
+    "opcionCorrecta": 0
+  },
+  {
+    "texto": "¿Cuál es el propósito del atributo android:layout_weight?",
+    "opciones": ["Establecer el peso de la fuente.", "Definir márgenes dinámicos.", "Distribuir el espacio libre entre vistas dentro de un LinearLayout.", "Asignar eventos a la vista."],
+    "opcionCorrecta": 2
+  },
+  {
+    "texto": "¿Qué es un ConstraintLayout?",
+    "opciones": ["Un layout para dibujar gráficos.", "Un layout que solo admite una vista hija.", "Un layout flexible que permite definir restricciones entre vistas.", "Un layout para listas desplegables."],
+    "opcionCorrecta": 2
+  },
+  {
+    "texto": "¿Qué hace el atributo android:layout_gravity?",
+    "opciones": ["Define el peso de la vista.", "Posiciona una vista dentro de su ViewGroup padre.", "Establece el tamaño de la fuente.", "Aplica márgenes a la vista."],
+    "opcionCorrecta": 1
+  },
+  {
+    "texto": "¿Cuál layout se recomienda para interfaces complejas con múltiples relaciones entre vistas?",
+    "opciones": ["LinearLayout", "ConstraintLayout", "FrameLayout", "AbsoluteLayout"],
+    "opcionCorrecta": 1
+  },
+  {
+    "texto": "¿Qué layout se utiliza para superponer vistas una encima de otra?",
+    "opciones": ["TableLayout", "RelativeLayout", "FrameLayout", "LinearLayout"],
+    "opcionCorrecta": 2
+  },
+  {
+    "texto": "¿Qué atributo establece el margen exterior de una vista?",
+    "opciones": ["android:layout_margin", "android:padding", "android:gravity", "android:textSize"],
+    "opcionCorrecta": 0
+  },
+  {
+    "texto": "¿Qué atributo establece el relleno interno de una vista?",
+    "opciones": ["android:gravity", "android:padding", "android:layout_weight", "android:textStyle"],
+    "opcionCorrecta": 1
+  },
+  {
+    "texto": "¿Cuál es la función principal de un ViewGroup?",
+    "opciones": ["Guardar datos del usuario.", "Contener y organizar otras vistas.", "Mostrar imágenes.", "Ejecutar animaciones."],
+    "opcionCorrecta": 1
+  },
+  {
+    "texto": "¿Qué layout es más eficiente para jerarquías profundas?",
+    "opciones": ["LinearLayout anidado", "TableLayout", "ConstraintLayout", "RelativeLayout con LinearLayout"],
+    "opcionCorrecta": 2
+  },
+  {
+    "texto": "¿Qué es un View en Android?",
+    "opciones": ["Una actividad que contiene fragmentos.", "Un componente de interfaz de usuario como botón o texto.", "Un archivo XML de recursos.", "Una clase para conectarse a bases de datos."],
+    "opcionCorrecta": 1
+  },
+  {
+    "texto": "¿Qué layout te permite alinear vistas en columnas y filas?",
+    "opciones": ["ConstraintLayout", "TableLayout", "LinearLayout", "FrameLayout"],
+    "opcionCorrecta": 1
+  },
+  {
+    "texto": "¿Cuál es la jerarquía base de todas las vistas en Android?",
+    "opciones": ["Context", "Widget", "View", "Activity"],
+    "opcionCorrecta": 2
+  },
+  {
+    "texto": "¿Dónde defines los layouts en Android?",
+    "opciones": ["src/main/res/layout/", "src/java/", "AndroidManifest.xml", "assets/"],
+    "opcionCorrecta": 0
+  },
+  {
+    "texto": "¿Qué herramienta visual permite construir interfaces gráficamente en Android Studio?",
+    "opciones": ["Logcat", "Design Editor", "Resource Manager", "Terminal"],
+    "opcionCorrecta": 1
+  },
+  {
+    "texto": "¿Qué layout es el más flexible pero complejo de configurar?",
+    "opciones": ["LinearLayout", "RelativeLayout", "ConstraintLayout", "TableLayout"],
+    "opcionCorrecta": 2
+  },
+  {
+    "texto": "¿Cuál de estas vistas se usa comúnmente para mostrar texto?",
+    "opciones": ["EditText", "Button", "TextView", "ImageView"],
+    "opcionCorrecta": 2
+  },
+  {
+    "texto": "¿Cuál de estos atributos se usa para establecer el ancho de una vista?",
+    "opciones": ["android:setWidth", "android:layout_width", "android:maxWidth", "android:weight"],
+    "opcionCorrecta": 1
+  }
+]
